@@ -1,0 +1,16 @@
+#carousel {
+    width: 30rem;
+    height: 20rem;
+    background-image: url(https://picsum.photos/id/237/200/300);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    background-position-y: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+button {
+    margin: .5rem;
+}
